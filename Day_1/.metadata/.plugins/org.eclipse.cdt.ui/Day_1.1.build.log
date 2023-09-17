@@ -1,0 +1,8 @@
+21:19:41 **** Clean-only build of configuration Debug for project Day_1.1 ****
+make clean 
+rm -rf ./src/Main.d ./src/Main.o
+rm -rf Day_1.1
+ 
+
+21:19:41 Build Finished. 0 errors, 0 warnings. (took 228ms)
+
