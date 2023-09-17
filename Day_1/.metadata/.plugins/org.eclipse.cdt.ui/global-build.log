@@ -1,34 +1,5 @@
-00:31:33 **** Clean-only build of configuration Debug for project Day_1.4 ****
+09:16:48 **** Clean-only build of configuration Debug for project Day_2.1 ****
 make clean 
 rm -rf ./src/Main.d ./src/Main.o
-rm -rf Day_1.4
+rm -rf Day_2.1
  
-
-00:31:33 Build Finished. 0 errors, 0 warnings. (took 229ms)
-
-00:33:00 **** Build of configuration Debug for project Day1.5 ****
-make all 
-Building file: ../src/Main.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
-../src/Main.cpp:3:3: error: use of undeclared identifier 'printf'
-  printf("Num1  : %d\n", num1);
-  ^
-1 error generated.
-make: *** [src/Main.o] Error 1
-"make all" terminated with exit code 2. Build might be incomplete.
-00:33:01 **** Build of configuration Debug for project Day_1.4 ****
-make all 
-Building file: ../src/Main.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
-Finished building: ../src/Main.cpp
- 
-Building target: Day_1.4
-Invoking: MacOS X C++ Linker
-g++  -o "Day_1.4"  ./src/Main.o   
-Finished building target: Day_1.4
- 
-00:33:04 **** Incremental Build of configuration Debug for project Day_1.4 ****
-make all 
-make: Nothing to be done for `all'.
