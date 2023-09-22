@@ -1,6 +1,8 @@
 #include<iostream>
 
 using namespace std;
+// Mangled name
+
 
 void sum( int num1, int num2 ){   //__Z3sumii
   int result = num1 + num2;
