@@ -1,14 +1,8 @@
 #include<iostream>
 #include<iomanip>
+#include"../include/Arithmatic_Operation.h"
+#include"../include/Calculator.h"
 using namespace std;
-
-typedef enum ArithmaticOperation{
-	EXIT, SUM, SUB, MULTIPLY, DIVIDE
-}ArithmaticOperation_t;
-int sum( int num1, int num2 );
-  int sub( int num1, int num2 );
-  int multiply( int num1, int num2 );
-  int divide( int num1, int num2 );
 
   ArithmaticOperation_t menu_list(void){
 	  int choice;
@@ -45,17 +39,4 @@ int main(void){
 cout<<"Result :   "<<result<<endl;
 	}
 	return 0;
-
-}
-int sum(int num1, int num2){
-	return num1+num2;
-}
-int sub(int num1, int num2){
-	return num1-num2;
-}
-int multiply(int num1, int num2){
-	return num1*num2;
-}
-int divide(int num1, int num2){
-	return num1/num2;
 }
