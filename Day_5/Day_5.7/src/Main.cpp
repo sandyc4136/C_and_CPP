@@ -2,15 +2,15 @@
 #include<iomanip>
 using namespace std;
 
-enum ArithmaticOperation{
+typedef enum ArithmaticOperation{
 	EXIT, SUM, SUB, MULTIPLY, DIVIDE
-};
+}ArithmaticOperation_t;
 int sum( int num1, int num2 );
   int sub( int num1, int num2 );
   int multiply( int num1, int num2 );
   int divide( int num1, int num2 );
 
-  enum ArithmaticOperation menu_list(void){
+  ArithmaticOperation_t menu_list(void){
 	  int choice;
 	cout<<"0 : exit"<<endl;
 	cout<<"1 : Sum"<<endl;
@@ -19,7 +19,7 @@ int sum( int num1, int num2 );
 	cout<<"4 : Divide"<<endl;
 	cout<<"Your choice : ";
 	cin>>choice;
-	return  ArithmaticOperation (choice);
+	return  ArithmaticOperation_t(choice);
 }
 int main(void){
 	enum ArithmaticOperation choice;
