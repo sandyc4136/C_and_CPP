@@ -1,0 +1,19 @@
+12:08:48 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:48:3: warning: delete called on non-final 'Base' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                delete ptrBase;
+                ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.9
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.9"  ./src/Main.o   
+Finished building target: Day_13.9
+ 
+
+12:08:50 Build Finished. 0 errors, 1 warnings. (took 1s.766ms)
+

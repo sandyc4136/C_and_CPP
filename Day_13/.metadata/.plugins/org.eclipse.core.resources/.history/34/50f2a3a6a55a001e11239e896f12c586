@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+
+int main( void ){
+	float area = 0;
+	float length = 10;
+	float breadth = 20;
+	area = length * breadth;
+	cout << "Area	:	" << area << endl;
+	return 0;
+}

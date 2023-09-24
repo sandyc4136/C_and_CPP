@@ -1,0 +1,29 @@
+/*
+ * Employee.h
+ *
+ *  Created on: 23 Sept 2023
+ *      Author: sandeep
+ */
+
+#ifndef EMPLOYEE_H_
+#define EMPLOYEE_H_
+
+#include<string>
+using namespace std;
+
+#include"../include/Person"
+
+class Employee : public Person{
+private:
+	int empid;
+	float salary;
+public:
+	Employee( void );
+
+	Employee( string name, int age, int empid, float salary );
+
+	void printRecord( void );
+};
+
+
+#endif /* EMPLOYEE_H_ */

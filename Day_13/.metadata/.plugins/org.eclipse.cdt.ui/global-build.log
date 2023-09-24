@@ -1,0 +1,1982 @@
+08:23:09 **** Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:5:8: error: unknown type name 'type_indo'; did you mean 'type_info'?
+        const type_indo &type = typeid( number );
+              ^~~~~~~~~
+              type_info
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/typeinfo:305:67: note: 'type_info' declared here
+class _LIBCPP_EXCEPTION_ABI _LIBCPP_TYPE_INFO_VTABLE_POINTER_AUTH type_info
+                                                                  ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+08:23:18 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:5:19: warning: unused variable 'type' [-Wunused-variable]
+        const type_info &type = typeid( number );
+                         ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+08:23:34 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:6:19: warning: unused variable 'type' [-Wunused-variable]
+        const type_info &type = typeid( number );
+                         ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+08:23:51 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+08:24:08 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+08:24:17 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+08:56:02 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+08:56:11 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+08:56:45 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+08:56:55 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+08:57:24 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+08:57:32 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+08:58:06 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+08:58:12 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+08:58:42 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+08:58:50 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+08:59:26 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:5: error: no member named 'f6' in 'A'
+         a.f6( );       //NOT OK: f6 is not a member of class A
+         ~ ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:02:08 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:02:16 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:04:58 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:05:05 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:05:45 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:05:56 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:06:30 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:58:8: error: no member named 'f6' in 'A'
+         ptr->f6( );    //NOT OK: f6 is not a member of class A
+         ~~~  ^
+../src/Main.cpp:59:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+1 warning and 1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:10:42 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:70:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+2 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:10:50 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:11:54 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:70:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+2 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:12:01 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:13:15 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:70:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+2 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:13:22 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:13:46 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:58:8: error: no member named 'f6' in 'A'
+         ptr->f6( );    //NOT OK: f6 is not a member of class A
+         ~~~  ^
+../src/Main.cpp:59:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:70:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+2 warnings and 1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:15:49 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:70:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:81:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:15:58 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:16:35 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:70:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:81:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:16:41 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:17:19 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:70:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:81:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:17:26 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:18:47 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:70:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:81:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:18:53 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:19:43 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:59:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:70:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:81:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:19:50 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:20:35 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:52:6: error: cannot initialize a variable of type 'B *' with an rvalue of type 'A *'
+         B *ptr = new A( );     //OK: Upcasting
+            ^     ~~~~~~~~
+../src/Main.cpp:54:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:65:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:76:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:87:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+4 warnings and 1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:31:47 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:82:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:32:47 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:32:53 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:33:29 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:82:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:93:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:104:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:33:39 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:33:50 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:82:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:93:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:104:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:33:57 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:34:03 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+09:34:11 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:82:3: warning: delete called on non-final 'B' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:93:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+../src/Main.cpp:104:3: warning: delete called on non-final 'A' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+         delete ptr;
+         ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.1
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.1"  ./src/Main.o   
+Finished building target: Day_13.1
+ 
+09:34:17 **** Incremental Build of configuration Debug for project Day_13.1 ****
+make all 
+make: Nothing to be done for `all'.
+10:08:46 **** Build of configuration Debug for project Day_13.2 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.2
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.2"  ./src/Main.o   
+Finished building target: Day_13.2
+ 
+10:09:52 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+make: Nothing to be done for `all'.
+10:10:13 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.2
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.2"  ./src/Main.o   
+Finished building target: Day_13.2
+ 
+10:10:21 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+make: Nothing to be done for `all'.
+10:10:30 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:33:9: error: use of undeclared identifier 'ptr'
+        delete ptr;
+               ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+10:10:36 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.2
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.2"  ./src/Main.o   
+Finished building target: Day_13.2
+ 
+10:10:44 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+make: Nothing to be done for `all'.
+10:11:02 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.2
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.2"  ./src/Main.o   
+Finished building target: Day_13.2
+ 
+10:11:11 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+make: Nothing to be done for `all'.
+10:11:38 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:31:5: warning: unused variable 'ptr' [-Wunused-variable]
+        A *ptr = new B( );      //Upcasting
+           ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.2
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.2"  ./src/Main.o   
+Finished building target: Day_13.2
+ 
+10:12:02 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+make: Nothing to be done for `all'.
+10:12:10 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.2
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.2"  ./src/Main.o   
+Finished building target: Day_13.2
+ 
+10:12:18 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+make: Nothing to be done for `all'.
+10:13:12 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.2
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.2"  ./src/Main.o   
+Finished building target: Day_13.2
+ 
+10:13:23 **** Incremental Build of configuration Debug for project Day_13.2 ****
+make all 
+make: Nothing to be done for `all'.
+10:24:04 **** Build of configuration Debug for project Day_13.3 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:7:19: error: calling a private constructor of class 'std::type_info'
+        type_info type = typeid( number ) ;
+                         ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/typeinfo:308:3: note: implicitly declared private here
+  type_info(const type_info&);
+  ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+10:24:25 **** Incremental Build of configuration Debug for project Day_13.3 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:7:13: error: binding reference of type 'std::type_info' to value of type 'const std::type_info' drops 'const' qualifier
+        type_info &type = typeid( number ) ;
+                   ^      ~~~~~~~~~~~~~~~~
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+10:24:44 **** Incremental Build of configuration Debug for project Day_13.3 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:7:19: warning: unused variable 'type' [-Wunused-variable]
+        const type_info &type = typeid( number ) ;
+                         ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.3
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.3"  ./src/Main.o   
+Finished building target: Day_13.3
+ 
+10:26:27 **** Incremental Build of configuration Debug for project Day_13.3 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.3
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.3"  ./src/Main.o   
+Finished building target: Day_13.3
+ 
+10:26:37 **** Incremental Build of configuration Debug for project Day_13.3 ****
+make all 
+make: Nothing to be done for `all'.
+10:26:45 **** Incremental Build of configuration Debug for project Day_13.3 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.3
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.3"  ./src/Main.o   
+Finished building target: Day_13.3
+ 
+10:26:52 **** Incremental Build of configuration Debug for project Day_13.3 ****
+make all 
+make: Nothing to be done for `all'.
+10:28:21 **** Incremental Build of configuration Debug for project Day_13.3 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.3
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.3"  ./src/Main.o   
+Finished building target: Day_13.3
+ 
+10:28:31 **** Incremental Build of configuration Debug for project Day_13.3 ****
+make all 
+make: Nothing to be done for `all'.
+10:28:58 **** Incremental Build of configuration Debug for project Day_13.3 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.3
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.3"  ./src/Main.o   
+Finished building target: Day_13.3
+ 
+10:29:06 **** Incremental Build of configuration Debug for project Day_13.3 ****
+make all 
+make: Nothing to be done for `all'.
+10:32:33 **** Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:32:43 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+10:33:08 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:33:20 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+10:34:18 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:34:27 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+10:35:02 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:35:10 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+10:35:42 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:35:52 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+10:36:32 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:36:42 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+10:37:00 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:37:07 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+10:39:28 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:39:57 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:40:05 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+10:41:09 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:41:20 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+10:41:38 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:41:46 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+10:43:00 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.4
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.4"  ./src/Main.o   
+Finished building target: Day_13.4
+ 
+10:43:10 **** Incremental Build of configuration Debug for project Day_13.4 ****
+make all 
+make: Nothing to be done for `all'.
+11:10:59 **** Build of configuration Debug for project Day_13.5 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.5
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.5"  ./src/Main.o   
+Finished building target: Day_13.5
+ 
+11:11:20 **** Incremental Build of configuration Debug for project Day_13.5 ****
+make all 
+make: Nothing to be done for `all'.
+11:12:12 **** Incremental Build of configuration Debug for project Day_13.5 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:24:14: error: 'real' is a private member of 'Complex'
+        ptrComplex->real = 50;
+                    ^
+../src/Main.cpp:6:6: note: declared private here
+        int real;
+            ^
+../src/Main.cpp:25:14: error: 'imag' is a private member of 'Complex'
+        ptrComplex->imag = 60;
+                    ^
+../src/Main.cpp:7:6: note: declared private here
+        int imag;
+            ^
+2 errors generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:17:05 **** Incremental Build of configuration Debug for project Day_13.5 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.5
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.5"  ./src/Main.o   
+Finished building target: Day_13.5
+ 
+11:17:14 **** Incremental Build of configuration Debug for project Day_13.5 ****
+make all 
+make: Nothing to be done for `all'.
+11:17:53 **** Incremental Build of configuration Debug for project Day_13.5 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.5
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.5"  ./src/Main.o   
+Finished building target: Day_13.5
+ 
+11:18:06 **** Incremental Build of configuration Debug for project Day_13.5 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:22:20: error: expected expression
+        int *ptr = (int*)()(&c1);
+                          ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:18:12 **** Incremental Build of configuration Debug for project Day_13.5 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.5
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.5"  ./src/Main.o   
+Finished building target: Day_13.5
+ 
+11:18:58 **** Incremental Build of configuration Debug for project Day_13.5 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.5
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.5"  ./src/Main.o   
+Finished building target: Day_13.5
+ 
+11:19:06 **** Incremental Build of configuration Debug for project Day_13.5 ****
+make all 
+make: Nothing to be done for `all'.
+11:22:45 **** Build of configuration Debug for project Day_13.6 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:9:9: warning: expression result unused [-Wunused-value]
+                this->number;
+                ~~~~  ^~~~~~
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.6
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.6"  ./src/Main.o   
+Finished building target: Day_13.6
+ 
+11:23:02 **** Incremental Build of configuration Debug for project Day_13.6 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:9:9: warning: expression result unused [-Wunused-value]
+                this->number;
+                ~~~~  ^~~~~~
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.6
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.6"  ./src/Main.o   
+Finished building target: Day_13.6
+ 
+11:24:07 **** Incremental Build of configuration Debug for project Day_13.6 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:9:9: warning: expression result unused [-Wunused-value]
+                this->number;
+                ~~~~  ^~~~~~
+../src/Main.cpp:18:3: error: 'this' argument to member function 'showRecord' has type 'const Test', but function is not marked const
+                this->showRecord( );
+                ^~~~
+../src/Main.cpp:12:7: note: 'showRecord' declared here
+        void showRecord( void ){
+             ^
+1 warning and 1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:25:01 **** Incremental Build of configuration Debug for project Day_13.6 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:9:9: warning: expression result unused [-Wunused-value]
+                this->number;
+                ~~~~  ^~~~~~
+../src/Main.cpp:18:35: error: expected ')'
+                Test *const ptr = ( Test *const ptr)this;
+                                                ^
+../src/Main.cpp:18:21: note: to match this '('
+                Test *const ptr = ( Test *const ptr)this;
+                                  ^
+1 warning and 1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:25:14 **** Incremental Build of configuration Debug for project Day_13.6 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:18:35: error: expected ')'
+                Test *const ptr = ( Test *const ptr)this;
+                                                ^
+../src/Main.cpp:18:21: note: to match this '('
+                Test *const ptr = ( Test *const ptr)this;
+                                  ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:25:31 **** Incremental Build of configuration Debug for project Day_13.6 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:18:15: warning: unused variable 'ptr' [-Wunused-variable]
+                Test *const ptr = ( Test *const)this;
+                            ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.6
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.6"  ./src/Main.o   
+Finished building target: Day_13.6
+ 
+11:25:43 **** Incremental Build of configuration Debug for project Day_13.6 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.6
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.6"  ./src/Main.o   
+Finished building target: Day_13.6
+ 
+11:25:52 **** Incremental Build of configuration Debug for project Day_13.6 ****
+make all 
+make: Nothing to be done for `all'.
+11:26:36 **** Incremental Build of configuration Debug for project Day_13.6 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.6
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.6"  ./src/Main.o   
+Finished building target: Day_13.6
+ 
+11:26:45 **** Incremental Build of configuration Debug for project Day_13.6 ****
+make all 
+make: Nothing to be done for `all'.
+11:29:26 **** Build of configuration Debug for project Day_13.7 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.7
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.7"  ./src/Main.o   
+Finished building target: Day_13.7
+ 
+11:29:41 **** Incremental Build of configuration Debug for project Day_13.7 ****
+make all 
+make: Nothing to be done for `all'.
+11:30:46 **** Incremental Build of configuration Debug for project Day_13.7 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.7
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.7"  ./src/Main.o   
+Finished building target: Day_13.7
+ 
+11:30:54 **** Incremental Build of configuration Debug for project Day_13.7 ****
+make all 
+make: Nothing to be done for `all'.
+11:31:30 **** Incremental Build of configuration Debug for project Day_13.7 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.7
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.7"  ./src/Main.o   
+Finished building target: Day_13.7
+ 
+11:38:48 **** Build of configuration Debug for project Day_13.8 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:39:8: warning: unused variable 'ptr' [-Wunused-variable]
+        Base *ptr = new Base( );
+              ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.8
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.8"  ./src/Main.o   
+Finished building target: Day_13.8
+ 
+11:39:10 **** Incremental Build of configuration Debug for project Day_13.8 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:40:8: warning: unused variable 'ptr2' [-Wunused-variable]
+        Base *ptr2 = new Derived( );    //OK
+              ^
+../src/Main.cpp:39:8: warning: unused variable 'ptr1' [-Wunused-variable]
+        Base *ptr1 = new Base( );       //OK
+              ^
+2 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.8
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.8"  ./src/Main.o   
+Finished building target: Day_13.8
+ 
+11:39:28 **** Incremental Build of configuration Debug for project Day_13.8 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:40:8: warning: unused variable 'ptr2' [-Wunused-variable]
+        Base *ptr2 = new Derived( );    //OK
+              ^
+../src/Main.cpp:39:8: warning: unused variable 'ptr1' [-Wunused-variable]
+        Base *ptr1 = new Base( );       //OK
+              ^
+../src/Main.cpp:41:11: warning: unused variable 'ptr3' [-Wunused-variable]
+        Derived *ptr3 = new Derived( );
+                 ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.8
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.8"  ./src/Main.o   
+Finished building target: Day_13.8
+ 
+11:39:45 **** Incremental Build of configuration Debug for project Day_13.8 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:42:11: error: cannot initialize a variable of type 'Derived *' with an rvalue of type 'Base *'
+        Derived *ptr4 = new Base( );    //OK
+                 ^      ~~~~~~~~~~~
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:44:50 **** Incremental Build of configuration Debug for project Day_13.8 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.8
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.8"  ./src/Main.o   
+Finished building target: Day_13.8
+ 
+11:45:12 **** Incremental Build of configuration Debug for project Day_13.8 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:42:11: error: no member named 'num3' in 'Base'
+        ptrBase->num3 = 30;
+        ~~~~~~~  ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:45:27 **** Incremental Build of configuration Debug for project Day_13.8 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:42:11: error: no member named 'setNum3' in 'Base'
+        ptrBase->setNum3( 30 );
+        ~~~~~~~  ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:51:14 **** Incremental Build of configuration Debug for project Day_13.8 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.8
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.8"  ./src/Main.o   
+Finished building target: Day_13.8
+ 
+11:51:23 **** Incremental Build of configuration Debug for project Day_13.8 ****
+make all 
+make: Nothing to be done for `all'.
+11:51:56 **** Incremental Build of configuration Debug for project Day_13.8 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.8
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.8"  ./src/Main.o   
+Finished building target: Day_13.8
+ 
+11:52:05 **** Incremental Build of configuration Debug for project Day_13.8 ****
+make all 
+make: Nothing to be done for `all'.
+11:54:54 **** Build of configuration Debug for project Day_13.9 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.9
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.9"  ./src/Main.o   
+Finished building target: Day_13.9
+ 
+11:55:02 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+make: Nothing to be done for `all'.
+11:55:58 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.9
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.9"  ./src/Main.o   
+Finished building target: Day_13.9
+ 
+11:56:09 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+make: Nothing to be done for `all'.
+11:56:41 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:46:24: error: static_cast from 'Base *' to 'Derived *', which are not related by inheritance, is not allowed
+        Derived *ptrDerived = static_cast< Derived*>( ptrBase );        //Downcasting: C-Style
+                              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:01:27 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:46:24: error: 'Base' is not polymorphic
+        Derived *ptrDerived = dynamic_cast< Derived*>( ptrBase );       //Downcasting: C-Style
+                              ^                        ~~~~~~~
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:02:55 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.9
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.9"  ./src/Main.o   
+Finished building target: Day_13.9
+ 
+12:03:52 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.9
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.9"  ./src/Main.o   
+Finished building target: Day_13.9
+ 
+12:04:02 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+make: Nothing to be done for `all'.
+12:06:25 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.9
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.9"  ./src/Main.o   
+Finished building target: Day_13.9
+ 
+12:06:32 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+make: Nothing to be done for `all'.
+12:08:48 **** Incremental Build of configuration Debug for project Day_13.9 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:48:3: warning: delete called on non-final 'Base' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                delete ptrBase;
+                ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.9
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.9"  ./src/Main.o   
+Finished building target: Day_13.9
+ 
+12:12:11 **** Build of configuration Debug for project Day_13.10 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.10
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.10"  ./src/Main.o   
+Finished building target: Day_13.10
+ 
+12:12:21 **** Incremental Build of configuration Debug for project Day_13.10 ****
+make all 
+make: Nothing to be done for `all'.
+12:13:21 **** Incremental Build of configuration Debug for project Day_13.10 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.10
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.10"  ./src/Main.o   
+Finished building target: Day_13.10
+ 
+12:13:29 **** Incremental Build of configuration Debug for project Day_13.10 ****
+make all 
+make: Nothing to be done for `all'.
+12:17:33 **** Build of configuration Debug for project Day_13.11 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:38:7: error: no member named 'aceeptRecord' in 'Rectangle'; did you mean 'acceptRecord'?
+        rect.aceeptRecord( );
+             ^~~~~~~~~~~~
+             acceptRecord
+../src/Main.cpp:15:7: note: 'acceptRecord' declared here
+        void acceptRecord( void ){
+             ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:17:40 **** Incremental Build of configuration Debug for project Day_13.11 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.11
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.11"  ./src/Main.o   
+Finished building target: Day_13.11
+ 
+12:17:50 **** Incremental Build of configuration Debug for project Day_13.11 ****
+make all 
+make: Nothing to be done for `all'.
+12:17:59 **** Incremental Build of configuration Debug for project Day_13.11 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.11
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.11"  ./src/Main.o   
+Finished building target: Day_13.11
+ 
+12:18:07 **** Incremental Build of configuration Debug for project Day_13.11 ****
+make all 
+make: Nothing to be done for `all'.
+12:19:15 **** Incremental Build of configuration Debug for project Day_13.11 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:42:22: error: no member named 'length' in 'Circle'
+                this->area = this->length * this->breadth;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+                             ~~~~  ^
+../src/Main.cpp:42:37: error: no member named 'breadth' in 'Circle'
+                this->area = this->length * this->breadth;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+                                            ~~~~  ^
+../src/Main.cpp:50:2: error: use of undeclared identifier 'area'
+        area = 3.14 * radius * radius;
+        ^
+../src/Main.cpp:50:16: error: use of undeclared identifier 'radius'
+        area = 3.14 * radius * radius;
+                      ^
+../src/Main.cpp:50:25: error: use of undeclared identifier 'radius'
+        area = 3.14 * radius * radius;
+                               ^
+../src/Main.cpp:51:23: error: use of undeclared identifier 'area'
+        cout << "Area   :       " << area << endl;
+                                     ^
+6 errors generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:19:57 **** Incremental Build of configuration Debug for project Day_13.11 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:50:2: error: use of undeclared identifier 'area'
+        area = 3.14 * radius * radius;
+        ^
+../src/Main.cpp:50:16: error: use of undeclared identifier 'radius'
+        area = 3.14 * radius * radius;
+                      ^
+../src/Main.cpp:50:25: error: use of undeclared identifier 'radius'
+        area = 3.14 * radius * radius;
+                               ^
+../src/Main.cpp:51:23: error: use of undeclared identifier 'area'
+        cout << "Area   :       " << area << endl;
+                                     ^
+4 errors generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:20:27 **** Incremental Build of configuration Debug for project Day_13.11 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.11
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.11"  ./src/Main.o   
+Finished building target: Day_13.11
+ 
+12:20:37 **** Incremental Build of configuration Debug for project Day_13.11 ****
+make all 
+make: Nothing to be done for `all'.
+12:22:52 **** Build of configuration Debug for project Day_13.12 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:31:9: error: 'area' is a private member of 'Shape'
+                this->area = this->length * this->breadth;
+                      ^
+../src/Main.cpp:6:8: note: declared private here
+        float area;
+              ^
+../src/Main.cpp:46:9: error: 'area' is a private member of 'Shape'
+                this->area = 3.14 * this->radius * this->radius;
+                      ^
+../src/Main.cpp:6:8: note: declared private here
+        float area;
+              ^
+2 errors generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:23:09 **** Incremental Build of configuration Debug for project Day_13.12 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.12
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.12"  ./src/Main.o   
+Finished building target: Day_13.12
+ 
+12:23:20 **** Incremental Build of configuration Debug for project Day_13.12 ****
+make all 
+make: Nothing to be done for `all'.
+12:23:26 **** Incremental Build of configuration Debug for project Day_13.12 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.12
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.12"  ./src/Main.o   
+Finished building target: Day_13.12
+ 
+12:23:34 **** Incremental Build of configuration Debug for project Day_13.12 ****
+make all 
+make: Nothing to be done for `all'.
+12:26:52 **** Build of configuration Debug for project Day_13.13 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.13
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.13"  ./src/Main.o   
+Finished building target: Day_13.13
+ 
+12:27:02 **** Incremental Build of configuration Debug for project Day_13.13 ****
+make all 
+make: Nothing to be done for `all'.
+12:29:33 **** Incremental Build of configuration Debug for project Day_13.13 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.13
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.13"  ./src/Main.o   
+Finished building target: Day_13.13
+ 
+12:29:44 **** Incremental Build of configuration Debug for project Day_13.13 ****
+make all 
+make: Nothing to be done for `all'.
+12:31:42 **** Incremental Build of configuration Debug for project Day_13.13 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:71:9: error: no member named 'acceptRecord' in 'Shape'
+                        ptr->acceptRecord( );
+                        ~~~  ^
+../src/Main.cpp:72:9: error: no member named 'calculateArea' in 'Shape'
+                        ptr->calculateArea( );
+                        ~~~  ^
+2 errors generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:32:45 **** Incremental Build of configuration Debug for project Day_13.13 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:75:9: error: no member named 'calculateArea' in 'Shape'
+                        ptr->calculateArea( );
+                        ~~~  ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:33:34 **** Incremental Build of configuration Debug for project Day_13.13 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:75:9: error: no member named 'calculateArea' in 'Shape'
+                        ptr->calculateArea( );
+                        ~~~  ^
+../src/Main.cpp:77:4: warning: delete called on non-final 'Shape' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                        delete ptr;
+                        ^
+../src/Main.cpp:93:4: warning: delete called on non-final 'Rectangle' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                        delete rect;
+                        ^
+../src/Main.cpp:100:4: warning: delete called on non-final 'Circle' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                        delete c;
+                        ^
+3 warnings and 1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:34:12 **** Incremental Build of configuration Debug for project Day_13.13 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:80:4: warning: delete called on non-final 'Shape' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                        delete ptr;
+                        ^
+../src/Main.cpp:96:4: warning: delete called on non-final 'Rectangle' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                        delete rect;
+                        ^
+../src/Main.cpp:103:4: warning: delete called on non-final 'Circle' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                        delete c;
+                        ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.13
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.13"  ./src/Main.o   
+Finished building target: Day_13.13
+ 
+12:36:26 **** Incremental Build of configuration Debug for project Day_13.13 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:80:4: warning: delete called on non-final 'Shape' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                        delete ptr;
+                        ^
+../src/Main.cpp:96:4: warning: delete called on non-final 'Rectangle' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                        delete rect;
+                        ^
+../src/Main.cpp:103:4: warning: delete called on non-final 'Circle' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                        delete c;
+                        ^
+3 warnings generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.13
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.13"  ./src/Main.o   
+Finished building target: Day_13.13
+ 
+12:36:35 **** Incremental Build of configuration Debug for project Day_13.13 ****
+make all 
+make: Nothing to be done for `all'.
+12:42:11 **** Build of configuration Debug for project Day_13.14 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:11:15: error: initializer on function does not look like a pure-specifier
+        virtual void acceptRecord( void ) = 0{
+                     ^                      ~
+../src/Main.cpp:11:39: error: expected ';' at end of declaration list
+        virtual void acceptRecord( void ) = 0{
+                                             ^
+                                             ;
+../src/Main.cpp:78:9: error: no member named 'calculateArea' in 'Shape'
+                        ptr->calculateArea( );
+                        ~~~  ^
+../src/Main.cpp:79:9: error: no member named 'printRecord' in 'Shape'
+                        ptr->printRecord( );
+                        ~~~  ^
+../src/Main.cpp:80:4: warning: delete called on non-final 'Shape' that has virtual functions but non-virtual destructor [-Wdelete-non-abstract-non-virtual-dtor]
+                        delete ptr;
+                        ^
+1 warning and 4 errors generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:42:54 **** Incremental Build of configuration Debug for project Day_13.14 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:79:4: warning: delete called on 'Shape' that is abstract but has non-virtual destructor [-Wdelete-abstract-non-virtual-dtor]
+                        delete ptr;
+                        ^
+1 warning generated.
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.14
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.14"  ./src/Main.o   
+Finished building target: Day_13.14
+ 
+12:43:39 **** Incremental Build of configuration Debug for project Day_13.14 ****
+make all 
+make: Nothing to be done for `all'.
+12:43:46 **** Incremental Build of configuration Debug for project Day_13.14 ****
+make all 
+make: Nothing to be done for `all'.
+12:44:25 **** Incremental Build of configuration Debug for project Day_13.14 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:66:8: error: variable type 'Shape' is an abstract class
+        Shape sh;
+              ^
+../src/Main.cpp:12:15: note: unimplemented pure virtual method 'acceptRecord' in 'Shape'
+        virtual void acceptRecord( void ) = 0;
+                     ^
+../src/Main.cpp:14:15: note: unimplemented pure virtual method 'calculateArea' in 'Shape'
+        virtual void calculateArea( void ) = 0;
+                     ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:46:38 **** Incremental Build of configuration Debug for project Day_13.14 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.14
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.14"  ./src/Main.o   
+Finished building target: Day_13.14
+ 
+12:48:46 **** Incremental Build of configuration Debug for project Day_13.14 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:71:14: error: allocating an object of abstract class type 'Rectangle'
+                        ptr = new Rectangle( ); //OK: Upcasting
+                                  ^
+../src/Main.cpp:14:15: note: unimplemented pure virtual method 'calculateArea' in 'Rectangle'
+        virtual void calculateArea( void ) = 0;
+                     ^
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:49:58 **** Incremental Build of configuration Debug for project Day_13.14 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.14
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.14"  ./src/Main.o   
+Finished building target: Day_13.14
+ 
+12:51:16 **** Incremental Build of configuration Debug for project Day_13.14 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+../src/Main.cpp:20:2: error: expected ';' after class
+}
+ ^
+ ;
+1 error generated.
+make: *** [src/Main.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:51:23 **** Incremental Build of configuration Debug for project Day_13.14 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.14
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.14"  ./src/Main.o   
+Undefined symbols for architecture x86_64:
+  "Shape::~Shape()", referenced from:
+      Rectangle::~Rectangle() in Main.o
+      Circle::~Circle() in Main.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [Day_13.14] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:52:06 **** Incremental Build of configuration Debug for project Day_13.14 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.14
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.14"  ./src/Main.o   
+Finished building target: Day_13.14
+ 
+12:54:17 **** Build of configuration Debug for project Day_13.15 ****
+make all 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building target: Day_13.15
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.15"  ./src/Main.o   
+Finished building target: Day_13.15
+ 
+12:59:02 **** Clean-only build of configuration Debug for project Day_13.16 ****
+make clean 
+rm -rf ./src/Main.d ./src/Main.o
+rm -rf Day_13.15
+ 
+12:59:03 **** Build of configuration Debug for project Day_13.16 ****
+make all 
+Building file: ../src/Circle.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Circle.d" -MT"src/Circle.o" -o "src/Circle.o" "../src/Circle.cpp"
+Finished building: ../src/Circle.cpp
+ 
+Building file: ../src/Main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Main.d" -MT"src/Main.o" -o "src/Main.o" "../src/Main.cpp"
+Finished building: ../src/Main.cpp
+ 
+Building file: ../src/Rectangle.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Rectangle.d" -MT"src/Rectangle.o" -o "src/Rectangle.o" "../src/Rectangle.cpp"
+Finished building: ../src/Rectangle.cpp
+ 
+Building file: ../src/Shape.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Shape.d" -MT"src/Shape.o" -o "src/Shape.o" "../src/Shape.cpp"
+../src/Shape.cpp:6:2: error: use of undeclared identifier 'cout'
+        cout << "Area   :       " << this->area << endl;
+        ^
+../src/Shape.cpp:6:37: error: use of undeclared identifier 'endl'
+        cout << "Area   :       " << this->area << endl;
+                                                   ^
+2 errors generated.
+make: *** [src/Shape.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+12:59:38 **** Incremental Build of configuration Debug for project Day_13.16 ****
+make all 
+Building file: ../src/Shape.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Shape.d" -MT"src/Shape.o" -o "src/Shape.o" "../src/Shape.cpp"
+Finished building: ../src/Shape.cpp
+ 
+Building target: Day_13.16
+Invoking: MacOS X C++ Linker
+g++  -o "Day_13.16"  ./src/Circle.o ./src/Main.o ./src/Rectangle.o ./src/Shape.o   
+Finished building target: Day_13.16
+ 
+12:59:53 **** Incremental Build of configuration Debug for project Day_13.16 ****
+make all 
+make: Nothing to be done for `all'.
