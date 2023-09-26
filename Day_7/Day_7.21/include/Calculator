@@ -1,0 +1,10 @@
+
+#ifndef CALCULATOR_
+#define CALCULATOR_
+
+namespace util{
+
+int calculate(int &num1, int &num2);
+
+}
+#endif /* CALCULATOR_ */

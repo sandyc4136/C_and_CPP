@@ -1,0 +1,20 @@
+
+#ifndef ARITHMATICEXCEPTION_
+#define ARITHMATICEXCEPTION_
+
+
+#include<string>
+using namespace std;
+
+namespace exception{
+class ArithmaticException{
+private:
+	string message;
+public:
+	ArithmaticException(string message);
+
+	void printStackTrace();
+};
+}
+
+#endif /* ARITHMATICEXCEPTION_ */

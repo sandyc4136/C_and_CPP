@@ -1,0 +1,24 @@
+
+
+#ifndef COMPLEX_
+#define COMPLEX_
+
+#include"../include/illegalArgumentException"
+using namespace exception;
+
+namespace nutil{
+class Complex{
+private:
+	int real;
+	int imag;
+public:
+	Complex(int real=0, int imag=0)throw(illegalArgumentException);
+	void setReal(const int real) throw(illegalArgumentException);
+	void setImag(const int imag) throw(illegalArgumentException);
+	int getReal(void) const throw();
+	int getImag(void) const throw();
+};
+}
+
+
+#endif /* COMPLEX_*/
